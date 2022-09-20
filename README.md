@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthan1995&label=Profile%20views&color=0e75b6&style=flat" alt="manthan1995" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthan1995" alt="manthan1995" /></a> </p>
+<p align="left"> <a href="https://github.com/manthan1995/sample_code"><img src="https://github-profile-trophy.vercel.app/?username=manthan1995" alt="manthan1995" /></a> </p>
 
 - 🔭 I’m currently working on [E-Learn App](https://play.google.com/store/apps/details?id=com.cherrilearn.fun)
 
